@@ -1,5 +1,7 @@
 # Latest-News-Classifier
 
+Link : https://b3coder.herokuapp.com/
+
 Latest News articles categorization is a supervised learning approach in which news articles are assigned category labels based on likelihood demonstrated by a training set of labeled articles. A system for automatic categorization of news articles into a standard set of categories has been implemented. The proposed work will use Term Frequency–Inverse Document Frequency (TF-IDF) term weighting scheme for optimization of classification techniques to get more optimized results and use six supervised learning approaches, i.e., 
 * Gradient Boosting
 * k Nearest Neighbor(kNN)
